@@ -1,3 +1,9 @@
+# Website REACT - Catalog produse si cos cumparaturi - checkout
+STOICA Maria Georgiana
+
+# Link YT prezentare audit performatia si proiect
+https://youtu.be/JLbYdHlsxjw
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
